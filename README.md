@@ -3,30 +3,20 @@
 Recommended to use repopick.
 
 -----
-### nfc
-- 198050
-### av camera
-- 200035
-### interfaces camera
-- 200040
-### optional
-- 198956 (sdclang)
+### qcom camera
+- topic qcom-cam-lineage-15.1
+
+### wifi
+- 206928
+
 -----
 
 ## repopick
 
 ```
-repopick 198050
+repopick 206928
 
-repopick 200035
+repopick --topic qcom-cam-lineage-15.1
 
-repopick 200040
-
-# optional
-repopick 198956 #sdclang
 ```
-
-
-
-
 -----
