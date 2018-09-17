@@ -23,9 +23,6 @@ Recommended to use repopick.
 ### sepolicy
 --topic pie-qcom-sepolicy
 
-### adb
-228610
-
 -----
 
 ## repopick
@@ -39,7 +36,6 @@ repopick --topic tinycompress-p
 repopick --topic pie-bt-caf
 repopick --topic wifi-p
 repopick --topic pie-qcom-sepolicy
-repopick 228610
 
 ```
 
