@@ -14,9 +14,6 @@ Recommended to use repopick.
 227338
 --topic tinycompress-p
 
-### bt
---topic pie-bt-caf
-
 ### wifi
 --topic wifi-p
 
@@ -33,7 +30,6 @@ repopick 223549
 repopick --topic op5-p
 repopick 227338
 repopick --topic tinycompress-p
-repopick --topic pie-bt-caf
 repopick --topic wifi-p
 repopick --topic pie-qcom-sepolicy
 
